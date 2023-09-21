@@ -1,6 +1,10 @@
 # projects - cs685
+## mini Project 1
+## mini Project 2
+## mini Project 3
+## mini Project 4
 
-## ccbs_ros
+## final project - ccbs_ros
 This repo is multi-robot motion planner framework which uses CCBS as a global planner to determine non-collision paths for all robots. The paths are sent to local planners which determine the path segment for robots to follow. The packages work on ROS and Gazebo. They contains: 
 - *ccbs* (ROS package): the global motion planner - read the graph from a file, and received starts and goals of all robots, then determine robot's paths. 
 - *cs685* (ROS package) - the local motion planner receive the paths from the ccbs package and send them to the each robot local planner (DWA). The action is used the monitor the robot movement.  
