@@ -1,5 +1,5 @@
 # projects - cs695-004 -Fall2023
-
+This repo consist of all program, package from course projects or self-learning.
 
 ## mini Project 1
 ## mini Project 2
